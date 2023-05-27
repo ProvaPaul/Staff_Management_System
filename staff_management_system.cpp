@@ -1,11 +1,7 @@
 #include<bits/stdc++.h>
-// this is the standard library for input/output operations
 #include <iostream>
-// this is the standard library for file handling
 #include <fstream>
-// this is the Standard library for string manipulation
 #include <string>
-// this is the Standard library for string manipulation
 using namespace std;
 
 class StaffManagement {
